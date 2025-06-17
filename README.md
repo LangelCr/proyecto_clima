@@ -11,15 +11,15 @@ proyecto_clima/
 
 │
 
-**├── twilio_script.py            # Script principal**
+**├── twilio_script.py --------# Script principal**
 
-**├── twilio_config.py            # Variables sensibles (cargadas desde .env)**
+**├── twilio_config.py -------# Variables sensibles (cargadas desde .env)**
 
-**├── utils.py                    # Funciones auxiliares**
+**├── utils.py ----------------# Funciones auxiliares**
 
-**├── .env                        # Variables de entorno (no versionar)**
+**├── .env --------------------# Variables de entorno (no versionar)**
 
-**├── requirements.txt            # Dependencias**
+**├── requirements.txt ------# Dependencias**
 
 ### ¿Qué hace el script? 🧪
 
@@ -27,3 +27,7 @@ proyecto_clima/
 - Formatea la información para lectura humana.
 - Envía un SMS con el pronóstico al teléfono configurado.
 - Se ejecuta automáticamente todos los días.
+
+
+### Mensaje recibido mediante SMS:
+![WhatsApp Image 2025-06-16 at 21 28 29](https://github.com/user-attachments/assets/0c69a8f3-9675-4ad0-9406-5bf4bee60175)
